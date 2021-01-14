@@ -3060,6 +3060,7 @@ input, select, textarea {
 					border: 0;
 					outline: 0;
 					right: 0;
+					float: right;
 				}
 
 					#titleBar .toggle:before {
