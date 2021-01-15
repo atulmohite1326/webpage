@@ -3055,7 +3055,7 @@ input, select, textarea {
 				#titleBar .toggle {
 					text-decoration: none;
 					height: 4em;
-					position: relative;
+					position: absolute;
 					top: 0;
 					width: 6em;
 					border: 0;
