@@ -2683,9 +2683,21 @@ input, select, textarea {
 			width: 60%;
 		}
 
-			.features article .inner > :last-child {
-				margin-bottom: 0;
-			}
+		.features article .imagew {
+			display: inline-block;
+			padding-right: 1.5em;
+			vertical-align: middle;
+			width: 80%;
+		}
+
+		.features article .imagew img {
+			display: block;
+			width: 100%;
+		}
+
+		.features article .inner > :last-child {
+			margin-bottom: 0;
+		}
 
 /* Header */
 
