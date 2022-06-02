@@ -3186,6 +3186,13 @@ input, select, textarea {
 				padding-right: 0;
 				width: 100%;
 			}
+		
+			.features article .imagew {
+				display: block;
+				margin: 0 0 1.5em 0;
+				padding-right: 0;
+				width: 100%;
+			}
 
 			.features article .inner {
 				display: block;
