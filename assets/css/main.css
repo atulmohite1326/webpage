@@ -2686,7 +2686,7 @@ input, select, textarea {
 		.features article .imagew {
 			display: inline-block;
 			padding-right: 1.5em;
-			padding-down: 1.5em;
+			padding-bottom: 1.5em;
 			vertical-align: middle;
 			width: 70%;
 		}
