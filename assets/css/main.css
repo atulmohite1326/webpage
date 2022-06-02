@@ -2666,7 +2666,7 @@ input, select, textarea {
 		.features article .image {
 			display: inline-block;
 			float: left;
-			padding-right: 2.5em;
+			padding-right: 1.5em;
 			vertical-align: middle;
 			width: 38%;
 		}
@@ -3168,7 +3168,7 @@ input, select, textarea {
 
 			.features article .image {
 				display: block;
-				margin: 0 0 2.25em 0;
+				margin: 0 0 1.5em 0;
 				padding-right: 0;
 				width: 100%;
 			}
