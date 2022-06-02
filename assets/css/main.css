@@ -3168,7 +3168,7 @@ input, select, textarea {
 				display: block;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
-				width: 40%;
+				width: 100%;
 			}
 
 			.features article .inner {
